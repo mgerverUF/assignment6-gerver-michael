@@ -209,11 +209,12 @@ header nav a {
 *
 *=========================================*/
 footer {
-  background: #333;
+  background: #d3d3d3;
   padding: 10px 30px;
   text-align: right;
 }
 
-footer img {
-  width: 40px;
+.foo-footer img {
+  width: 45px;
+  display: inline;
 }
